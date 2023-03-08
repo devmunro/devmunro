@@ -1,14 +1,15 @@
 ![Blue Dynamic Fashion Special Sale Banner](https://user-images.githubusercontent.com/57059357/203512105-2001c815-2da6-4187-9052-2e2d0f0d1e9c.gif)
 
 
+# PROJECTS
 ## ACTIVE AI/BULLDOG Project
- |<h4 align="left">About this project</h4> <p align="left">This website was created using:</p> <ul align="left"> <li>MERNSTACK</li> <li>REDUX</li> <li>TAILWIND</li> <li>REACT CHARTS</li></ul> *Links: *https://bulldog-two.vercel.app/|  ![Beige Elegant Tablet Mockup Pinterest Pin](https://user-images.githubusercontent.com/57059357/223713553-5506cd0c-173c-4705-aa61-3de677ae899e.png)|
- | --- | --- |
-## Movie NextJS Project
-| ![Neon gradient mobile mockup instagram post ](https://user-images.githubusercontent.com/57059357/223711626-c00d3502-22a8-41dd-bd29-3d1bea1861aa.png) | <h2 align="center">About this project</h2> <p align="center">This website was created using NextJS & Tailwind Css. This website provides information about popular and upcoming movies and TV shows. Users can browse through a list of the most popular movies and TV shows, as well as view details about upcoming releases. The site includes information such as the release date, runtime, synopsis, and production company</p> |
-| :---: | :---: |
 
+| <p align="left">This website was created using:</p> <ul align="left">   <li>MERNSTACK</li>   <li>REDUX</li>   <li>TAILWIND</li>   <li>REACT CHARTS</li></ul> <p align="center">Links: <a href="https://bulldog-two.vercel.app/">https://bulldog-two.vercel.app/</a></p> | ![Beige Elegant Tablet Mockup Pinterest Pin](https://user-images.githubusercontent.com/57059357/223713553-5506cd0c-173c-4705-aa61-3de677ae899e.png) |
+| --- | --- |
+
+## Movie NextJS Project
+
+| <p align="center">This website was created using NextJS & Tailwind CSS. This website provides information about popular and upcoming movies and TV shows. Users can browse through a list of the most popular movies and TV shows, as well as view details about upcoming releases. The site includes information such as the release date, runtime, synopsis, and production company</p> | ![Neon gradient mobile mockup instagram post ](https://user-images.githubusercontent.com/57059357/223711626-c00d3502-22a8-41dd-bd29-3d1bea1861aa.png) |
+| --- | --- |
 
 ![2](https://user-images.githubusercontent.com/57059357/203519666-917cfca2-96c0-429e-9b0a-001f4071459b.png)
-
-
