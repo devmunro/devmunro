@@ -4,11 +4,6 @@
 ![2](https://user-images.githubusercontent.com/57059357/203519666-917cfca2-96c0-429e-9b0a-001f4071459b.png)(link to your URL)
 ## Movie NextJS Project
 
-<div>
-<div style="width: 50%;">
-  ![Neon gradient mobile mockup instagram post](https://user-images.githubusercontent.com/57059357/223711626-c00d3502-22a8-41dd-bd29-3d1bea1861aa.png)(https://movie-nextjs-dun.vercel.app/)
-</div> Created by David Munro
-Built with Next.js and Tailwind CSS 
-[Visit Website](https://movie-nextjs-dun.vercel.app/) | Built with Next.js and Tailwind CSS |
-  
-  </div>
+| ![Neon gradient mobile mockup instagram post ](https://user-images.githubusercontent.com/57059357/223711626-c00d3502-22a8-41dd-bd29-3d1bea1861aa.png) | <h2 align="center">About this project</h2> <p align="center">This website was created by [your name] using [technologies used]. It provides [brief description of website].</p> |
+| :---: | :---: |
+
